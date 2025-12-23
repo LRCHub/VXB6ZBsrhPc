@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "仮装狂騒曲",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2025-12-23T08:08:43.580692Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仮装狂騒曲",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_仮装狂騒曲_FAKE_TYPE..txt"
+    }
+  ]
+}
